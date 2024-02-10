@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "MY FIRST GITHUB PAGE"
+date: 2024-02-10
 
 
 ---
