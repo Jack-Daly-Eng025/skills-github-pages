@@ -4,4 +4,4 @@ date: 2024-02-10
 
 ---
 
-This is a blog post.
+description: This is my blog post.
