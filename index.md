@@ -1,6 +1,7 @@
 ---
-title: Welcome to my blog-This is my first GitHub Page
+title: "Welcome to my blog-This is my first GitHub Page"
+date: 2024-02-10
 
-This is just a GitHub Page to practice on.
+
 ---
 
